@@ -7,7 +7,6 @@ I developed a backend system to support the transformation of a specific workout
 - Entity Framework Core for database operations  
 - PostgreSQL as the database  
 - Swagger for API documentation and testing  
-- JWT Authentication for secure access  
 
 ### 📸 Screenshots
 
